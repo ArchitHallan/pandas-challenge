@@ -3,7 +3,18 @@
 # PyCitySchool Challenge
 
 ## Overview of the PyCitySchools Analysis
-The purpose  of this project is to analyze school district data to provide the school board with an overview of the district's key metrics, including student's math and reading scores, passing rates, and school budgets. The analysis will also provide insight into how different factors, such as school size and type, affect student performance.
+In order to present the school board with an overview of the district's important indicators, including student math and reading test scores, passing rates, and school budgets, this project will analyse school district data. Additionally, the study will provide light on how many elements, like school size and kind, impact student achievement.
+
+## Step by step instructions on how to perform the analysis are as follows:
+
+1. The district and school summary will be created.
+2. The top 5 and bottom 5 performing schools, based on the overall passing rate, will be identified.
+3. The average math score for each grade level from each school will be calculated.
+4. The average reading score for each grade level from each school will be calculated.
+5. The scores by school spending per student, by school size, and by school type will be calculated.
+## Resources
+- Data Source: schools_complete.csv, students_complete.csv
+- Software: Python 3.7.6, Jupyter Notebook 6.0.3
 
 ## Results of the PyCitySchools Analysis 
 
